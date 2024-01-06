@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="fly" type="pub.py" name="publisher" output="screen" />
+    <node pkg="fly" type="sub.py" name="subscriber" output="screen" />
+</launch>

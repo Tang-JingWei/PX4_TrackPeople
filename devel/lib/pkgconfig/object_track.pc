@@ -1,0 +1,8 @@
+prefix=/home/tangjingwei/projects/ros/try/devel
+
+Name: object_track
+Description: Description of object_track
+Version: 0.0.0
+Cflags: -I/home/tangjingwei/projects/ros/try/src/object_track/include
+Libs: -L${prefix}/lib -lobject_track
+Requires: geometry_msgs mavros roscpp object_detect

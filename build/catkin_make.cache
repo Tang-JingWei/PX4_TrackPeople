@@ -1,0 +1,2 @@
+fly:object_detect:object_track:offboard
+-DCATKIN_DEVEL_PREFIX=/home/tangjingwei/projects/ros/try/devel -DCMAKE_INSTALL_PREFIX=/home/tangjingwei/projects/ros/try/install -G Unix Makefiles

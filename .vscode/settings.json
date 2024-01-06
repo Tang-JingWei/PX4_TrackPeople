@@ -1,0 +1,21 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3.11/site-packages",
+        "${workspaceFolder}/devel/lib/python3.11/site-packages/fly/msg/",
+        "${workspaceFolder}/devel/lib/python3.11/site-packages/object_detect/msg/"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3.11/site-packages",
+        "${workspaceFolder}/devel/lib/python3.11/site-packages/fly/msg/",
+        "${workspaceFolder}/devel/lib/python3.11/site-packages/object_detect/msg/"
+    ],
+    "ros.distro": "noetic",
+    "files.associations": {
+        "*.ipp": "cpp",
+        "chrono": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
+    }
+}

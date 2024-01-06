@@ -1,0 +1,9 @@
+<launch>
+
+  <!-- 启动 YOLOV5 节点 -->
+  <node name="yolov5_detect" pkg="object_detect" type="scripts/easy-run-jetson-nano-yolov5/my_detect.py" output="screen"/>
+
+  <!-- 启动 追踪 节点
+  <node name="track_node" pkg="object_track" type="object_track_node" output="screen"/> -->
+
+</launch>
