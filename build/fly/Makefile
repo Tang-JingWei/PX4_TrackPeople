@@ -382,6 +382,146 @@ std_msgs_generate_messages_py/fast:
 .PHONY : std_msgs_generate_messages_py/fast
 
 # Convenience name for target.
+fly/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
+.PHONY : fly/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_cpp: fly/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/rule
+.PHONY : sensor_msgs_generate_messages_cpp
+
+# fast build rule for target.
+sensor_msgs_generate_messages_cpp/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build.make fly/CMakeFiles/sensor_msgs_generate_messages_cpp.dir/build
+.PHONY : sensor_msgs_generate_messages_cpp/fast
+
+# Convenience name for target.
+fly/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule
+.PHONY : fly/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_eus: fly/CMakeFiles/sensor_msgs_generate_messages_eus.dir/rule
+.PHONY : sensor_msgs_generate_messages_eus
+
+# fast build rule for target.
+sensor_msgs_generate_messages_eus/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build.make fly/CMakeFiles/sensor_msgs_generate_messages_eus.dir/build
+.PHONY : sensor_msgs_generate_messages_eus/fast
+
+# Convenience name for target.
+fly/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
+.PHONY : fly/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_lisp: fly/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/rule
+.PHONY : sensor_msgs_generate_messages_lisp
+
+# fast build rule for target.
+sensor_msgs_generate_messages_lisp/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build.make fly/CMakeFiles/sensor_msgs_generate_messages_lisp.dir/build
+.PHONY : sensor_msgs_generate_messages_lisp/fast
+
+# Convenience name for target.
+fly/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule
+.PHONY : fly/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_nodejs: fly/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/rule
+.PHONY : sensor_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+sensor_msgs_generate_messages_nodejs/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build.make fly/CMakeFiles/sensor_msgs_generate_messages_nodejs.dir/build
+.PHONY : sensor_msgs_generate_messages_nodejs/fast
+
+# Convenience name for target.
+fly/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
+.PHONY : fly/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+sensor_msgs_generate_messages_py: fly/CMakeFiles/sensor_msgs_generate_messages_py.dir/rule
+.PHONY : sensor_msgs_generate_messages_py
+
+# fast build rule for target.
+sensor_msgs_generate_messages_py/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/sensor_msgs_generate_messages_py.dir/build.make fly/CMakeFiles/sensor_msgs_generate_messages_py.dir/build
+.PHONY : sensor_msgs_generate_messages_py/fast
+
+# Convenience name for target.
+fly/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule
+.PHONY : fly/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule
+
+# Convenience name for target.
+geometry_msgs_generate_messages_cpp: fly/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/rule
+.PHONY : geometry_msgs_generate_messages_cpp
+
+# fast build rule for target.
+geometry_msgs_generate_messages_cpp/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build.make fly/CMakeFiles/geometry_msgs_generate_messages_cpp.dir/build
+.PHONY : geometry_msgs_generate_messages_cpp/fast
+
+# Convenience name for target.
+fly/CMakeFiles/geometry_msgs_generate_messages_eus.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/geometry_msgs_generate_messages_eus.dir/rule
+.PHONY : fly/CMakeFiles/geometry_msgs_generate_messages_eus.dir/rule
+
+# Convenience name for target.
+geometry_msgs_generate_messages_eus: fly/CMakeFiles/geometry_msgs_generate_messages_eus.dir/rule
+.PHONY : geometry_msgs_generate_messages_eus
+
+# fast build rule for target.
+geometry_msgs_generate_messages_eus/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build.make fly/CMakeFiles/geometry_msgs_generate_messages_eus.dir/build
+.PHONY : geometry_msgs_generate_messages_eus/fast
+
+# Convenience name for target.
+fly/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule
+.PHONY : fly/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule
+
+# Convenience name for target.
+geometry_msgs_generate_messages_lisp: fly/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/rule
+.PHONY : geometry_msgs_generate_messages_lisp
+
+# fast build rule for target.
+geometry_msgs_generate_messages_lisp/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build.make fly/CMakeFiles/geometry_msgs_generate_messages_lisp.dir/build
+.PHONY : geometry_msgs_generate_messages_lisp/fast
+
+# Convenience name for target.
+fly/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/rule
+.PHONY : fly/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/rule
+
+# Convenience name for target.
+geometry_msgs_generate_messages_nodejs: fly/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/rule
+.PHONY : geometry_msgs_generate_messages_nodejs
+
+# fast build rule for target.
+geometry_msgs_generate_messages_nodejs/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build.make fly/CMakeFiles/geometry_msgs_generate_messages_nodejs.dir/build
+.PHONY : geometry_msgs_generate_messages_nodejs/fast
+
+# Convenience name for target.
+fly/CMakeFiles/geometry_msgs_generate_messages_py.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/geometry_msgs_generate_messages_py.dir/rule
+.PHONY : fly/CMakeFiles/geometry_msgs_generate_messages_py.dir/rule
+
+# Convenience name for target.
+geometry_msgs_generate_messages_py: fly/CMakeFiles/geometry_msgs_generate_messages_py.dir/rule
+.PHONY : geometry_msgs_generate_messages_py
+
+# fast build rule for target.
+geometry_msgs_generate_messages_py/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/geometry_msgs_generate_messages_py.dir/build.make fly/CMakeFiles/geometry_msgs_generate_messages_py.dir/build
+.PHONY : geometry_msgs_generate_messages_py/fast
+
+# Convenience name for target.
 fly/CMakeFiles/fly_generate_messages.dir/rule:
 	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/fly_generate_messages.dir/rule
 .PHONY : fly/CMakeFiles/fly_generate_messages.dir/rule
@@ -549,6 +689,44 @@ fly_genpy/fast:
 	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/fly_genpy.dir/build.make fly/CMakeFiles/fly_genpy.dir/build
 .PHONY : fly_genpy/fast
 
+# Convenience name for target.
+fly/CMakeFiles/loc.dir/rule:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 fly/CMakeFiles/loc.dir/rule
+.PHONY : fly/CMakeFiles/loc.dir/rule
+
+# Convenience name for target.
+loc: fly/CMakeFiles/loc.dir/rule
+.PHONY : loc
+
+# fast build rule for target.
+loc/fast:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/loc.dir/build.make fly/CMakeFiles/loc.dir/build
+.PHONY : loc/fast
+
+src/loc.o: src/loc.cpp.o
+.PHONY : src/loc.o
+
+# target to build an object file
+src/loc.cpp.o:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/loc.dir/build.make fly/CMakeFiles/loc.dir/src/loc.cpp.o
+.PHONY : src/loc.cpp.o
+
+src/loc.i: src/loc.cpp.i
+.PHONY : src/loc.i
+
+# target to preprocess a source file
+src/loc.cpp.i:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/loc.dir/build.make fly/CMakeFiles/loc.dir/src/loc.cpp.i
+.PHONY : src/loc.cpp.i
+
+src/loc.s: src/loc.cpp.s
+.PHONY : src/loc.s
+
+# target to generate assembly for a file
+src/loc.cpp.s:
+	cd /home/tangjingwei/projects/ros/try/build && $(MAKE) $(MAKESILENT) -f fly/CMakeFiles/loc.dir/build.make fly/CMakeFiles/loc.dir/src/loc.cpp.s
+.PHONY : src/loc.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -574,6 +752,11 @@ help:
 	@echo "... fly_genlisp"
 	@echo "... fly_gennodejs"
 	@echo "... fly_genpy"
+	@echo "... geometry_msgs_generate_messages_cpp"
+	@echo "... geometry_msgs_generate_messages_eus"
+	@echo "... geometry_msgs_generate_messages_lisp"
+	@echo "... geometry_msgs_generate_messages_nodejs"
+	@echo "... geometry_msgs_generate_messages_py"
 	@echo "... roscpp_generate_messages_cpp"
 	@echo "... roscpp_generate_messages_eus"
 	@echo "... roscpp_generate_messages_lisp"
@@ -584,11 +767,20 @@ help:
 	@echo "... rosgraph_msgs_generate_messages_lisp"
 	@echo "... rosgraph_msgs_generate_messages_nodejs"
 	@echo "... rosgraph_msgs_generate_messages_py"
+	@echo "... sensor_msgs_generate_messages_cpp"
+	@echo "... sensor_msgs_generate_messages_eus"
+	@echo "... sensor_msgs_generate_messages_lisp"
+	@echo "... sensor_msgs_generate_messages_nodejs"
+	@echo "... sensor_msgs_generate_messages_py"
 	@echo "... std_msgs_generate_messages_cpp"
 	@echo "... std_msgs_generate_messages_eus"
 	@echo "... std_msgs_generate_messages_lisp"
 	@echo "... std_msgs_generate_messages_nodejs"
 	@echo "... std_msgs_generate_messages_py"
+	@echo "... loc"
+	@echo "... src/loc.o"
+	@echo "... src/loc.i"
+	@echo "... src/loc.s"
 .PHONY : help
 
 
